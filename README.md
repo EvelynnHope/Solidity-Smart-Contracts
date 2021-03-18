@@ -18,7 +18,7 @@ This is why we program smart contracts with Solidity by creating 3 ProfitSplitte
 
 This will accept Ether into the contract and divide the Ether evenly among the associate level employees. This will allow the Human Resources department to pay employees quickly and efficiently.
 
-![Deploying AssociateProfitSplitter](./AssociateProfitSplitter.gif)
+![Deploying AssociateProfitSplitter](./AssociateProfit.gif)
 
 ## Tiered Profit Splitter 
 
