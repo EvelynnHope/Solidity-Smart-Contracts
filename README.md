@@ -1,7 +1,6 @@
 # Smart Contracts
 
 Building smart contracts to automate some company finances intends to make everyone's lives easier, increase transparency, and to make accounting and auditing 
-
 practically automatic!
  
 This is why we program smart contracts with Solidity by creating 3 ProfitSplitter contracts. These contracts will do several things:
